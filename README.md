@@ -1,3 +1,3 @@
 # Liquid-Intake-Monitoring-Data
 We collected data for 10 different beverages including water and 5 different volumes with our LIDS(Liquid Intake Detection System)
-First column is the distance between the sensor and liquid surface. Second column is the measured temperature inside the bottle. Third to fifth columns are the Red, Green, and Blu values masured by RGB color sensor. 
+"Distance" is the distance between the sensor and liquid surface. "Temperature" is the measured temperature inside the bottle. "Red", "Green", "Blue" are the values masured by RGB color sensor for each liquid. "Intensity" is the transformatio of Red, Green, Blue to Gray scale. "Lightsetting" and "Light" indicate the lighting condition for each round of data collection. "Type" is our label for each tested liquid. "Volume" is the actual volume of each data collection round.
